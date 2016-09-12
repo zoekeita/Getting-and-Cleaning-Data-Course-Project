@@ -2,7 +2,9 @@
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
 Important Note: The following script requires reshape2.
+
 The R script, run_analysis.R, does the following:
+
         A. Downloads and unzips the dataset.
         B. Reads all required text files including information regarding activity and feature; and, both the training and test datasets.
         C. Merges the training and test datasets.
