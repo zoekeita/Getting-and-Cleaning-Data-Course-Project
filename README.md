@@ -22,8 +22,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Acknowledgements and Sources:
 David Hood advice: https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
-
-info about reshape2: http://seananderson.ca/2013/10/19/reshape.html
+info about aggregate: http://www.statmethods.net/management/aggregate.html
 
 info about grep: http://stackoverflow.com/questions/21311386/using-grep-to-help-subset-a-data-frame-in-r
                  https://stat.ethz.ch/R-manual/R-devel/library/base/html/grep.html
+                 http://rfunction.com/archives/2354 
