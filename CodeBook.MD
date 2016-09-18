@@ -5,10 +5,10 @@ Variables:
         activity_names: the type of activity that was performed during the test
         subject_id: the id of the test subject
         test, test_activity, test_subjectId, train, train_activity, train_subjectId: contains raw data from text files; used in part 0
-        test_df, train_df, train_and_test: merged above datasets into dataframes; used in part 1
-        meanstd_data: dataset containing vector mean_std with IDs, mean, and std; used in part 2
-        t_and_t_melt: contains melted version of data to make manipulation easier; used in part 5
-        t_and_t_mean: contains the average values; used in part 5
+        subject_data, activity_data, features_data: merged above datasets into dataframes; used in part 1
+        sub_and_act, all_data: dataset combining above dataframes; part 1
+        mean_std: subset of all_data containing feature names; used in part 1, 2, 3, 5
+        mean_stdTidy: took average of each activity and subject to create new dataset
         
 Activity Labels:
 
